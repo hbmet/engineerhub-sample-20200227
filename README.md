@@ -1,4 +1,4 @@
-# アルゴリズムの基本をJava、C#、Pythonで学ぼう（サンプル）
+# アルゴリズムの基本をJava、C#、Pythonで学ぼう
 
 https://employment.en-japan.com/engineerhub/entry/2020/02/27/103000
 
